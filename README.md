@@ -20,5 +20,6 @@ I2C LCD 화면의 픽셀을 이용해 8가지 모양을 0.5초마다 순서대�
 ## 3. 영상
 
 https://github.com/user-attachments/assets/9e55bdc3-b9e6-4af7-9849-b4b5d004c6b1
+
 <br> <br> 
 
