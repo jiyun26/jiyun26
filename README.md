@@ -10,7 +10,7 @@ LCD 첫 번째 칸의 픽셀을 단계적으로 채우고 비우는 방식을 �
 <br> <br> 
 
 ## 2. 코드
-```
+```javascript
 #include <Wire.h>                
 #include <LiquidCrystal_I2C.h>    
 
