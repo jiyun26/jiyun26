@@ -2,12 +2,14 @@
 웹 브라우저의 슬라이더로 아두이노에 연결된 LED의 밝기를 실시간으로 조절하는 프로젝트입니다.   
 웹에서 슬라이더를 움직이면, 시리얼 통신을 통해 아두이노의 LED 밝기가 바뀌는 방식으로 작동합니다.
 <br>
+<br>
 
 ## 1. 회로 사진
 <img width="2088" height="1356" alt="image" src="https://github.com/user-attachments/assets/3f12927a-b140-45dc-a4b4-218bbdfade85" />
 아두이노의 9번 핀을 전원으로 사용하여 저항과 LED를 연결하고, LED의 반대쪽을 GND에 연결하였습니다.
+<br>
+<br>
 
----
 ## 2. 스케치
 ### Arduino IDE
 p5.js로부터 시리얼 통신으로 전달받은 숫자를 읽어와 analogWrite()를 통해 9번 핀의 PWM 출력을 조절하여 LED 밝기를 바꿉니다.
@@ -116,12 +118,12 @@ async function openPort() {
   }
 }
 ```
-
 ### 슬라이더
 <img width="826" height="454" alt="image" src="https://github.com/user-attachments/assets/917c0835-d572-4cb3-a187-650bd6051363" />
 
+<br>
+<br>
 
----
 ## 3. 작동 영상
 
 https://github.com/user-attachments/assets/f0797224-3e70-4f49-9c9a-dad824b4ddb0
