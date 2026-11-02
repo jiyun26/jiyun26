@@ -117,7 +117,9 @@ async function openPort() {
 }
 ```
 
-<img width="870" height="456" alt="image" src="https://github.com/user-attachments/assets/403ccc16-a27c-4ee9-aa6a-f37642f54dcf" />
+### 슬라이더
+<img width="826" height="454" alt="image" src="https://github.com/user-attachments/assets/917c0835-d572-4cb3-a187-650bd6051363" />
+
 
 ---
 ## 3. 작동 영상
