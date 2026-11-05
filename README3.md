@@ -327,7 +327,7 @@ function updateSliderValue() {
 
 ## 3. 작동 영상
 
-https://github.com/user-attachments/assets/0b66d79a-b4fb-410c-a635-0729744cdf94
+https://github.com/user-attachments/assets/a3eb17e9-7f8d-453c-9796-c6de85eefbf2
 
 
 
