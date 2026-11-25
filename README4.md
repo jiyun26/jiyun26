@@ -45,6 +45,7 @@ IFTTT Webhooks URL을 ThingHTTP에 등록하여 ThingSpeak에서 IFTTT를 호출
 API Request를 통해 Field 1에 35,80,42 등 30을 초과하는 숫자를 입력하여 조건을 충족시켰으며, 휴대폰으로 알림이 전송되는 것을 확인하였습니다.
 
 <img width="1310" height="922" alt="image" src="https://github.com/user-attachments/assets/b6f2f028-604d-43f2-a6b7-4d38a4fd0d8a" />
+<img width="1206" height="501" alt="image" src="https://github.com/user-attachments/assets/63caac18-7faa-4611-a190-290c89408085" />
 
 
 ## 4. 결과
